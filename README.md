@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/logo.png" width="300" height="300" alt="css-in-readme">
+    <img src="images/logo2.png" width="300" height="300" alt="piety-logo">
 </div>
 
 <h1>PeityDev</h1>
