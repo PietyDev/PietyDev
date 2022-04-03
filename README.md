@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="images/logo.png" width="300" height="300" alt="css-in-readme">
+</div>
+
 <h1>PeityDev</h1>
 <h3>RPG - Acción</h3>
 <i>like zelda gameboy</i>
